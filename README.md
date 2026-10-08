@@ -5,7 +5,7 @@ Phishing detector
 
 ## Usage
 
-'''shell
+``` shell
 some command
 
 
